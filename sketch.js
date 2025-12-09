@@ -14,7 +14,7 @@ let img;
 
 
 function preload() {
-  img = loadImage("assets/cover.jpg");
+  img = loadImage("assets/Cover.jpg");
 }
 
 
